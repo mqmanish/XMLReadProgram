@@ -1,0 +1,26 @@
+{
+  "id": "02d05b36-ade6-4968-856b-14e93dbb2e66",
+  "name": "XMLReadDemo",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "showMyCode": true,
+  "capabilities": [],
+  "dependencies": [{"appId": "818bbc0e-8296-45f7-bdae-6798210a9e2c","name": "WebSrvIntegration",
+    "publisher": "Default publisher","version": "1.0.0.0"}],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "features": ["TranslationFile"],
+  "idRange": {
+    "from": 50000,
+    "to": 99999
+  },
+  "runtime": "2.0"
+}

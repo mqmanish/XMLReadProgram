@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:mbs="http://www.microsoft.com/mbs/xml">
+<soapenv:Header xmlns:soapenv="soapenv">
+<soapenv:Body>
+<mbs:enumeration xmlns:mbs="mbs">
+<mbs:table>Customers</mbs:table>
+<mbs:Customer>
+<mbs:CustomerAuthentication>
+<mbs:No>10000</mbs:No>
+<mbs:Name>The Cannon Group PLC</mbs:Name>
+</mbs:CustomerAuthentication>
+<mbs:CustomerData>
+<mbs:Balance>168,364.41</mbs:Balance>
+<mbs:SalespersonCode>PS</mbs:SalespersonCode>
+<mbs:Contacts>
+<mbs:Contact>Mr. Andy Teal</mbs:Contact>
+</mbs:Contacts>
+</mbs:CustomerData>
+</mbs:Customer>
+<mbs:Customer>
+<mbs:CustomerAuthentication>
+<mbs:No>20000</mbs:No>
+<mbs:Name>Selangorian Ltd.</mbs:Name>
+</mbs:CustomerAuthentication>
+<mbs:CustomerData>
+<mbs:Balance>96,049.99</mbs:Balance>
+<mbs:SalespersonCode>PS</mbs:SalespersonCode>
+<mbs:Contacts>
+<mbs:Contact>Mr. Mark McArthur</mbs:Contact>
+</mbs:Contacts>
+</mbs:CustomerData>
+</mbs:Customer>
+</mbs:enumeration>
+</soapenv:Body>
+</soapenv:Header>
+</soapenv:Envelope>

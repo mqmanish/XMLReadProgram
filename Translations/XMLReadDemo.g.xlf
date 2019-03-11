@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="XMLReadDemo">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1899157183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CustomerXML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerXML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1899157183 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerXML - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1899157183 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerXML - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1899157183 - Field 25700210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerXML - Field Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1899157183 - Field 2695906988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalespersonCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerXML - Field SalespersonCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1899157183 - Field 4144518489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerXML - Field ContactName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3441640072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Test Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Test Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3441640072 - Action 1720901350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read XML File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Test Page - Action Create Soap Message - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

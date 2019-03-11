@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Envelope>
+<Header>
+<Body>
+<enumeration>
+<table>Customers</table>
+<Customer>
+<CustomerAuthentication>
+<No>10000</No>
+<Name>The Cannon Group PLC</Name>
+</CustomerAuthentication>
+<CustomerData>
+<Balance>168,364.41</Balance>
+<SalespersonCode>PS</SalespersonCode>
+<Contacts>
+<Contact>Mr. Andy Teal</Contact>
+</Contacts>
+</CustomerData>
+</Customer>
+<Customer>
+<CustomerAuthentication>
+<No>20000</No><Name>Selangorian Ltd.</Name>
+</CustomerAuthentication>
+<CustomerData>
+<Balance>96,049.99</Balance>
+<SalespersonCode>PS</SalespersonCode>
+<Contacts>
+<Contact>Mr. Mark McArthur</Contact>
+</Contacts>
+</CustomerData>
+</Customer>
+</enumeration>
+</Body>
+</Header>
+</Envelope>
