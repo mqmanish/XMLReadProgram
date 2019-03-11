@@ -17,7 +17,7 @@ table 50500 CustomerXML
         field(3; Balance; Decimal)
         {
             DataClassification = AccountData;
-            Caption = 'Balance';
+            Caption = 'Balance ($)';
         }
         field(4; SalespersonCode; Code[10])
         {

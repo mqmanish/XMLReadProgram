@@ -38,6 +38,7 @@ codeunit 50500 "XML Read Demo"
             lXMLResponse.WriteTo(RespnseTxt);
             XMLResponseContent := XMLDomMgt.RemoveNamespaces(RespnseTxt);
             XMLDomMgt.LoadXMLDocumentFromText(XMLResponseContent, XMLDocResponse);
+            //Write message for Checking execution
             //Message(XMLResponseContent);
 
             xmlNodeList1 := XMLDocResponse.GetDescendantElements('Customer');
